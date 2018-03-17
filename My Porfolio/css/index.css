@@ -1,0 +1,21 @@
+/*Header*/
+#header {
+	background-image: url("../img/bg_header_up.png"), url("../img/bg_header_dn.png");
+	background-size: contain, cover;
+	background-repeat: no-repeat, no-repeat;
+	background-position: 50%, left top;
+	padding: 0 0;
+}
+
+/*What we do*/
+.carousel-inner {
+    width: 100%;
+    overflow: hidden;
+    height: 50vh;
+}
+
+/*Who we are*/
+
+/*Contact us*/
+
+/*Footer*/
